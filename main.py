@@ -1,3 +1,7 @@
-print("hello world")
-print("hi")
-print("hii kkkkakakakakka")
+print("Hello from GitHub Actions 🚀")
+
+a = 10
+b = 5
+
+print("Sum:", a + b)
+print("Multiplication:", a * b)
